@@ -1,2 +1,2 @@
 # travel-agency-email-automation
-An automated email workflow for travel agency business operations using n8n.
+AI-powered travel agency email automation system using n8n, OpenAI, and intelligent customer inquiry handling.
