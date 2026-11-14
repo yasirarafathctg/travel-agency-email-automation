@@ -47,6 +47,18 @@ The goal is to simplify customer support, reduce repetitive manual work, and del
 
 </div>
 
+## 📂 Workflow Files
+
+Download the complete n8n workflow:
+
+[⬇️ Download Workflow JSON](workflow/travel-agency-email-automation.json)
+
+**How to Import:**
+1. Download the JSON file.
+2. Open your n8n dashboard.
+3. Select Import from File.
+4. Choose the downloaded JSON file.
+5. Configure your credentials.
 ---
 
 ## ✨ Key Features
