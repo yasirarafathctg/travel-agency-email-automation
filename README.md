@@ -36,7 +36,10 @@ The goal is to simplify customer support, reduce repetitive manual work, and del
 
 <div align="center">
 
-<img src="screenshots/workflow.png" alt="AI Email Automation Workflow" width="100%" />
+<img <div align="center">
+  <img src="screenshots/1.png" alt="AI Email Automation Workflow" width="100%" />
+  <p><em>Complete automation workflow built with n8n</em></p>
+</div>
 
 <br/>
 
