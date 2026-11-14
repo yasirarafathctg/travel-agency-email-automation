@@ -61,6 +61,14 @@ Download the complete n8n workflow:
 5. Configure your credentials.
 ---
 
+## 🎬 Project Demo
+
+Watch the complete demonstration of the AI Email Automation Workflow built with n8n and OpenAI.
+
+[▶️ Watch Full Project Demo](https://drive.google.com/file/d/1LsJekEeg6Hv2RkwN8FrzT8XINUXP8878/view?usp=drive_link)
+
+
+
 ## ✨ Key Features
 
 <table>
